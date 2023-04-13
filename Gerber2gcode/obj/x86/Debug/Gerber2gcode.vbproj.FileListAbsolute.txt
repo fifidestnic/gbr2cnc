@@ -1,0 +1,9 @@
+C:\Users\fifi\Documents\Visual Studio 2010\Projects\Gerber2gcode\Gerber2gcode\obj\x86\Debug\Gerber2gcode.vbproj.GenerateResource.Cache
+C:\Users\fifi\Documents\Visual Studio 2010\Projects\Gerber2gcode\Gerber2gcode\bin\Debug\GBR2CNC.exe
+C:\Users\fifi\Documents\Visual Studio 2010\Projects\Gerber2gcode\Gerber2gcode\bin\Debug\GBR2CNC.pdb
+C:\Users\fifi\Documents\Visual Studio 2010\Projects\Gerber2gcode\Gerber2gcode\bin\Debug\GBR2CNC.xml
+C:\Users\fifi\Documents\Visual Studio 2010\Projects\Gerber2gcode\Gerber2gcode\obj\x86\Debug\GBR2CNC.Form1.resources
+C:\Users\fifi\Documents\Visual Studio 2010\Projects\Gerber2gcode\Gerber2gcode\obj\x86\Debug\GBR2CNC.Resources.resources
+C:\Users\fifi\Documents\Visual Studio 2010\Projects\Gerber2gcode\Gerber2gcode\obj\x86\Debug\GBR2CNC.exe
+C:\Users\fifi\Documents\Visual Studio 2010\Projects\Gerber2gcode\Gerber2gcode\obj\x86\Debug\GBR2CNC.xml
+C:\Users\fifi\Documents\Visual Studio 2010\Projects\Gerber2gcode\Gerber2gcode\obj\x86\Debug\GBR2CNC.pdb
