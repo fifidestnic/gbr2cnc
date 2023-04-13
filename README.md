@@ -1,2 +1,2 @@
 # gbr2cnc
-conversion de fichier Gerber en fichier gcode pour CNC (réalisation de stencil)
+conversion de fichier Gerber en fichier gcode pour CNC (réalisation de stencil pour PCB)
