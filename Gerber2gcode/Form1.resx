@@ -135,18 +135,6 @@
   <metadata name="Y_.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="ID.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="Patern.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="X_.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="Y_.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="PictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -451,6 +439,23 @@
         3ACvjFzhDxuwiWEAcq9GdloAA5VkQuVQDwrWOspoTCAoPFyUgb9UuRlSIkLXFlFzOFYnx1SDSmxUmEtI
         LTZSLeybghAwiGXcLOOVcghYhEQvudp5CnFkGi1JMntdTIiVf85U/ZQP1EIApn4QP8yMqEJfOEmNE28K
         YUGqQHCALBbqkk0E8ZSQJn//2Q==
+</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAQAAAAAADoAgAAFgAAACgAAAAgAAAAQAAAAAEABAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAACAAACAAAAAgIAAgAAAAIAAgACAgAAAwMDAAICAgAAAAP8AAP8AAAD//wD/AAAA/wD/AP//
+        AAD///8A/4iIiIiIiIiIiIiIiIiIj/iIiIiIiIiIiIiIiIiIiIh3d3d3d3d3d3d3d3d3zMyId0d3d0d3
+        d0d3d0d3d8zMiHd3d3d3d3d3d3d3d3fMzIh3R3R3R3R3R3R3R3R3zMyId3d3d3d3d3d3d3eAh//8iHdH
+        d3dHd3dHd3dAd3D/z4h3d3d3d3d3d3d3h3h3//+IdwgIAId4CAgICAeAh//8iHd3d3d3cHd3d3eHB3f/
+        z4h3SHgIR3h3R3d3B4B3//yId3d3d3dwd3d3d3h3ePz/iHeAgICHeHdHdHdHCAf//Ih3d3h3d3B3d3d3
+        d3B3/8+Id0dwd0d4d0d3d0d4d///iHd3eHd3cHd3d3d3cHf//Ih3R3B3R3h3R3R3R3h3/P+Id3d4d3e7
+        t3d3d3dwd//8iHdHcHdLd3tHd3cICAj/z4h3d3h3t7u3t3d3d3d3/P+Id0dwgLd7d7d0d0BwgP/8iHd3
+        d3e3u7e3d3d3d3f/z4h3R3d3t7t3t3d3CAgI//yId3d3d3t3e3d3d3d3d//PiHdHdHdHu7dHdHdHdHfM
+        zIh3d3d3d3d3d3d3d3d3zMyId0d3d0d3d0d3d0d3d//8iHd3d3d3d3d3d3d3d3f/z4jMzMzMzMzMzMzM
+        zMzM//yIz8///MzMzMzMzM//z/zMj8zMzMzMzMzMzMzMzMzMzP8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
 </value>
   </data>
 </root>
